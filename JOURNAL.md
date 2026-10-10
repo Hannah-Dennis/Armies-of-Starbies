@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-07 – In this session I worked on the schematic for my Starbie. I learnt keyboard shortcuts for putting in wires, sensors, and more. At first, I didn't get how to assign footprints and which goes where, but](#2026-10-07-in-this-session-i-worked-on-the-schematic-for-my-)
-2. [2026-10-10 – Work session](#2026-10-10-work-session)
+2. [2026-10-10 – I worked on making the footprints of the circuit board. I had to search up videos on YouTube on how to make a rounded rectangle for the outer shape of my PCB.](#2026-10-10-i-worked-on-making-the-footprints-of-the-circuit-)
 
 ## Design
 
@@ -31,8 +31,14 @@ In this session I worked on the schematic for my Starbie. I learnt keyboard shor
 
 [Timelapse](https://lookout.hackclub.com/api/media/7f276085-a072-4682-82b2-aac99986f0f6/video.mp4)
 
-### 2026-10-10 – Work session
+### 2026-10-10 – I worked on making the footprints of the circuit board. I had to search up videos on YouTube on how to make a rounded rectangle for the outer shape of my PCB.
 
 **1.78h**
+
+I worked on making the footprints of the circuit board. I had to search up videos on YouTube on how to make a rounded rectangle for the outer shape of my PCB.
+
+![Screenshot 2026-10-10 at 15.38.57](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/o1wNdlxPeEOJWlthVsqeMk75JBnTQ3e5/6d032f4ff667f77dbf330d46f6f1f09c7e16f59ef0cda9253479df0aba619e64.png)
+
+![Screenshot 2026-10-10 at 15.39.20](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/o1wNdlxPeEOJWlthVsqeMk75JBnTQ3e5/09d38af234152cbf9289c74b4fd4559e373e1fe1730fcbb2092d2ca0220d0eda.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/047514d4-28cc-4f28-8019-c1b48cdc8f02/video.mp4)
