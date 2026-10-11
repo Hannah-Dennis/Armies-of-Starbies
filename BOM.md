@@ -21,7 +21,7 @@
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | used for the sensor | 1 | $0.05 | $0.05 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | holds all the parts | 1 | $10.00 | $10.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$26.29** | — |
-| **Tax & shipping** | — | — | — | **$26.29** | — |
-| **Total** | — | — | — | **$52.58** | — |
+| **Tax & shipping** | — | — | — | **$24.95** | — |
+| **Total** | — | — | — | **$51.24** | — |
 
-**$22.58 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$21.24 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
