@@ -18,10 +18,9 @@
 | [DHT11](https://www.amazon.com/dp/B0BLG7R99R) | helps starbie sense temperature and moisture of the environment | 1 | $3.78 | $3.78 | [Amazon](https://www.amazon.com/dp/B0BLG7R99R) |
 | [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4) | to interact with starbie | 4 | $0.18 | $0.72 | [Amazon](https://www.amazon.com//dp/B0FQP8VYX4) |
 | [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY) | makes button comfortable | 4 | $0.60 | $2.40 | [Amazon](https://www.amazon.com/dp/B0CQ2VLMVY) |
-| [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | used for the sensor | 1 | $0.05 | $0.05 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | holds all the parts | 1 | $10.00 | $10.00 | [JLCPCB](https://www.jlcpcb.com/) |
-| **Parts subtotal** | — | — | — | **$30.03** | — |
+| **Parts subtotal** | — | — | — | **$29.98** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$30.03** | — |
+| **Total** | — | — | — | **$29.98** | — |
 
-**$0.03 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$0.02 left of the tier's funding.
