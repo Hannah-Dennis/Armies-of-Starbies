@@ -1,16 +1,3 @@
-/*
-  Starbie: a tiny motion-controlled digital pet
-
-  This is intentionally one file. Open this .ino file in Arduino IDE, edit
-  the BEGINNER SETTINGS section, and upload it to a Seeed XIAO ESP32-C3.
-
-  Install these libraries with Sketch > Include Library > Manage Libraries:
-    - Adafruit GFX Library
-    - Adafruit SSD1306
-    - Adafruit MPU6050
-    - DHT sensor library
-  Arduino IDE will offer to install their dependencies too. Click Install All.
-*/
 
 #include <Wire.h>
 #include <Adafruit_GFX.h>
