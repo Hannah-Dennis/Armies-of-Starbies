@@ -5,10 +5,10 @@
 My Starbie is a tiny handheld pet inspired by The Amazing World of Gumball's episode: The Console. Instead of the guide's star shape, I designed my PCB as a rounded rectangular board with a direction pad, a "Player HD" logo (my username sometimes) under the screen, and a cool pattern at the back of the circuit board.
 
 It runs on a XIAO ESP32-C3 and has:
--> A 0.96" OLED screen where my pet lives.
--> An MPU6050 motion sensor so the pet reacts when you move it.
--> A DHT11 sensor that measures temperature and humidity.
--> A custom 32x32 pixel sprite that I drew myself.
+- A 0.96" OLED screen where my pet lives.
+- An MPU6050 motion sensor so the pet reacts when you move it.
+- A DHT11 sensor that measures temperature and humidity.
+- A custom 32x32 pixel sprite that I drew myself.
 
 # Controls
 
@@ -33,10 +33,10 @@ little sparkle behind it.
 
 
 # What I used:
--> KiCad's PCB editor
--> KiCad's Schematic editor
--> Piskel (to make sprite)
--> Image2cpp
+- KiCad's PCB editor
+- KiCad's Schematic editor
+- Piskel (to make sprite)
+- Image2cpp
 
 # Images:
 <img width="870" height="574" alt="Screenshot 2026-10-11 at 00 35 44" src="https://github.com/user-attachments/assets/8ad9e9da-a6c3-44f2-b219-2594b4b80364" />
