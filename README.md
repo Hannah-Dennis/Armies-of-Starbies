@@ -53,4 +53,12 @@ little sparkle behind it.
 
 
 # BOM Table:
-<img width="1005" height="588" alt="Screenshot 2026-10-21 at 10 38 59" src="https://github.com/user-attachments/assets/8d4df9a6-9feb-4176-be6a-d667dfb21c63" />
+Item,Qty,Supplier,Cost/item,Total Cost,link
+XIAO ESP32 C3,1,Seeedstudio,$4.90,$4.90,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
+0.96 OLED,1,Amazon,$5.99,$5.99,https://www.amazon.com/dp/B0GBVWBWCR
+MPU6050,1,Amazon,$2.19,$2.19,https://www.amazon.com/dp/B0943SGP34
+DHT11,1,Amazon,$3.78,$3.78,https://www.amazon.com/dp/B0BLG7R99R
+MX Switches,1,Amazon,$4.99,$4.99,https://www.amazon.com//dp/B0FQP8VYX4
+Keycaps,1,Amazon,$2.88,$2.88,https://www.amazon.com/dp/B0CQ2VLMVY
+PCB,1,JLCPCB,$7.36,$7.36,https://www.jlcpcb.com/
+Estimated total shipping,1,,,$0.00,
